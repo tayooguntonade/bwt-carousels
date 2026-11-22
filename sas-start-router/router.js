@@ -9,14 +9,14 @@ function el(id){return document.getElementById(id)}
 (function(){
   var CALL = 'https://calendly.com/d/ds9s-5rw-zb4/sas-disc-call-rr-ss';
   var ROUTES = {
-    'landlord-call':    CALL,
+    'landlord-call':    'https://calendly.com/brickzwithtipzsa/landlord-strategy-call-with-tayo',
     'landlord-webinar': 'https://landlords.servicedaccommodationsuccess.com/',
     'r2r-call':         CALL,
     'r2r-webinar':      'https://lp.servicedaccommodationsuccess.com/sas-masterclass'
   };
   var COPY = {
     landlord: {q:'You own property. How do you want to start?',
-      call:'A free 45-minute call with the team about your property. Mortgage, tenant, numbers. We tell you honestly if it fits.',
+      call:'A free 45-minute call with Tayo about your property. What it earns now, what it could earn, and the right route for you.',
       web:'The Landlords Playbook. Live with Tayo. How to switch a buy-to-let to serviced accommodation.'},
     r2r: {q:'Starting with rent to rent. How do you want to start?',
       call:'A free 45-minute call with the team. Your budget, your area, your first property. We tell you honestly if it fits.',
